@@ -136,14 +136,14 @@ dev = [
     "ruff==0.16.0",
     "mypy==2.3.0",
     "mypy-protobuf==5.1.0",
-    "PyGithub==2.9.0",
+    "PyGithub==2.10.0",
     "bump-my-version==1.5.0",
     # type stubs for mypy
     "types-colorama==0.4.15.11",
     "types-PyYAML==6.0.8",
     "types-psutil==7.2.0.20251228",
     "types_requests==2.33.0.20260327",
-    "types-protobuf==7.34.1.20260403",
+    "types-protobuf==7.35.1.20260821",
     "deptry==0.25.1"
 ]
 build = [
